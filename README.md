@@ -1,18 +1,4 @@
 
-## 模板截图
-
-### 登录
-
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms3.png)
-
-### 默认皮肤
-
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms1.png)
-
-### 浅绿色皮肤
-
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png)
-
 
 
 ## 前言
@@ -139,6 +125,4 @@ import 'element-ui/lib/theme-default/index.css'; // 默认主题
 
 第三步：打开 src/components/common/Sidebar.vue 文件，找到 el-menu 标签，把 background-color/text-color/active-text-color 属性去掉即可。
 
-## License
 
-[MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)
